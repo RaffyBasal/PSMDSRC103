@@ -1,0 +1,2 @@
+Quadratic Equation: 4.0x^2 + 2.0x + 2.0 = 0
+No real roots.
